@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">What Did I Buy?</string>
+    <string name="app_subtitle">Your purchases, warranties, returns, and important documents — remembered.</string>
+    <string name="app_tagline">Your purchases have a memory.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_my_stuff">My Stuff</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="money_you_can_still_save">MONEY YOU CAN STILL SAVE</string>
+    <string name="money_you_may_recover">Money You May Still Recover</string>
+    <string name="based_on_active_returns">Based on active return opportunities and warranty windows</string>
+    <string name="nothing_urgent">Nothing urgent right now.</string>
+    <string name="attention_title">ATTENTION</string>
+    <string name="action_view">VIEW</string>
+    <string name="action_add_purchase">ADD PURCHASE</string>
+    <string name="scan_receipt">Scan Receipt</string>
+    <string name="import_photo">Import Photo</string>
+    <string name="add_manually">Add Manually</string>
+    <string name="scan_product">Scan Barcode</string>
+    <string name="ask_purchases">Ask My Purchases</string>
+
+    <!-- Stats -->
+    <string name="stat_total_purchases">Total Purchases</string>
+    <string name="stat_total_spent">Total Tracked</string>
+    <string name="stat_active_warranties">Active Warranties</string>
+    <string name="stat_return_windows">Return Windows</string>
+    <string name="stat_expiring_soon">Expiring Soon</string>
+    <string name="stat_recent_purchases">Recent Purchases</string>
+
+    <!-- Categories -->
+    <string name="cat_electronics">Electronics</string>
+    <string name="cat_phones">Phones</string>
+    <string name="cat_computers">Computers</string>
+    <string name="cat_home_appliances">Home Appliances</string>
+    <string name="cat_furniture">Furniture</string>
+    <string name="cat_clothing">Clothing</string>
+    <string name="cat_shoes">Shoes</string>
+    <string name="cat_tools">Tools</string>
+    <string name="cat_vehicles">Vehicles</string>
+    <string name="cat_vehicle_parts">Vehicle Parts</string>
+    <string name="cat_gaming">Gaming</string>
+    <string name="cat_subscriptions">Subscriptions</string>
+    <string name="cat_software">Software</string>
+    <string name="cat_food">Food &amp; Dining</string>
+    <string name="cat_health_personal_care">Health &amp; Personal Care</string>
+    <string name="cat_beauty">Beauty</string>
+    <string name="cat_children">Children &amp; Baby</string>
+    <string name="cat_pet">Pet Supplies</string>
+    <string name="cat_home">Home &amp; Kitchen</string>
+    <string name="cat_office">Office</string>
+    <string name="cat_other">Other</string>
+
+    <!-- Return & Warranty Status -->
+    <string name="status_unknown">Unknown</string>
+    <string name="status_active">Active</string>
+    <string name="status_expiring_soon">Expiring Soon</string>
+    <string name="status_expired">Expired</string>
+    <string name="status_returned">Returned</string>
+    <string name="status_non_returnable">Non-returnable</string>
+    <string name="status_claimed">Claimed</string>
+
+    <!-- Detail & Forms -->
+    <string name="product_name">Product Name</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="category">Category</string>
+    <string name="store">Store / Merchant</string>
+    <string name="purchase_date">Purchase Date</string>
+    <string name="purchase_price">Price</string>
+    <string name="currency">Currency</string>
+    <string name="quantity">Quantity</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="order_number">Order Number</string>
+    <string name="receipt_number">Receipt Number</string>
+    <string name="warranty_duration">Warranty Duration</string>
+    <string name="warranty_expiration">Warranty Expiration</string>
+    <string name="return_period">Return Period</string>
+    <string name="return_deadline">Return Deadline</string>
+    <string name="notes">Notes</string>
+    <string name="save_purchase">Save Purchase</string>
+    <string name="delete_purchase">Delete Purchase</string>
+    <string name="edit_purchase">Edit Purchase</string>
+    <string name="start_warranty_claim">Start Warranty Claim</string>
+    <string name="prepare_return">Prepare Return</string>
+    <string name="share">Share</string>
+    <string name="export">Export</string>
+
+    <!-- OCR Review -->
+    <string name="review_purchase">REVIEW PURCHASE</string>
+    <string name="please_check_this">Please check this</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="cancel">Cancel</string>
+    <string name="scan_complete">SCAN COMPLETE</string>
+    <string name="reading_receipt">READING RECEIPT…</string>
+
+    <!-- Premium -->
+    <string name="premium_title">PREMIUM</string>
+    <string name="premium_headline">REMEMBER EVERYTHING.</string>
+    <string name="premium_subheadline">Never lose a receipt, warranty, or return deadline again.</string>
+    <string name="free_tier_name">FREE</string>
+    <string name="free_tier_desc">Up to 30 purchases, basic notifications &amp; local storage</string>
+    <string name="premium_tier_name">PREMIUM</string>
+    <string name="premium_tier_desc">Unlimited purchases, AI purchase assistant, warranty claim packages &amp; backups</string>
+    <string name="start_monthly">START MONTHLY</string>
+    <string name="start_yearly">START YEARLY</string>
+    <string name="restore_purchases">RESTORE PURCHASES</string>
+    <string name="manage_subscription">Manage Subscription</string>
+    <string name="best_value">BEST VALUE</string>
+    <string name="purchase_limit_reached">You\'ve reached the free limit of 30 purchases.</string>
+    <string name="upgrade_to_premium">UPGRADE TO PREMIUM</string>
+    <string name="not_now">NOT NOW</string>
+
+    <!-- Insights -->
+    <string name="where_did_my_money_go">Where Did My Money Go?</string>
+    <string name="monthly_spending">Monthly Spending</string>
+    <string name="category_spending">Category Spending</string>
+    <string name="store_spending">Store Spending</string>
+    <string name="price_memory">Price Memory</string>
+    <string name="largest_purchases">Largest Purchases</string>
+
+    <!-- Documents -->
+    <string name="doc_receipts">Receipts</string>
+    <string name="doc_invoices">Invoices</string>
+    <string name="doc_warranties">Warranties</string>
+    <string name="doc_manuals">Manuals</string>
+    <string name="doc_photos">Product Photos</string>
+    <string name="doc_serials">Serial Photos</string>
+
+    <!-- Settings -->
+    <string name="reset_all_data">RESET ALL DATA</string>
+    <string name="reset_warning">Delete everything? This will permanently remove your purchases, documents, warranties, and local data.</string>
+    <string name="backup_data">Back Up Data</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="about_app">About What Did I Buy?</string>
+</resources>

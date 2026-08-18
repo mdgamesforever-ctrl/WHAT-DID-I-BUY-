@@ -1,0 +1,6 @@
+{
+  "name": "What Did I Buy?",
+  "description": "Your purchases, warranties, returns, and important documents — remembered.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
